@@ -60,6 +60,10 @@ A API deve ser robusta, segura e eficiente, demonstrando habilidades em desenvol
 ### Validação e Tratamento de Erros
 - Implementar validação de dados de entrada.Gerenciar e retornar mensagens de erro apropriadas.
 
+### Tecnologias e Ferramentas
+- Linguagens: TypeScript
+- Frameworks: NestJS, Express ou Fastify
+
 ### Documentação da API (Opcional):
 - Documentar a API usando Swagger ou Postman (não obrigatória).
 - Incluir exemplos de requisições e respostas (schemas).
@@ -67,12 +71,9 @@ A API deve ser robusta, segura e eficiente, demonstrando habilidades em desenvol
 ### Testes (Opcional):
 - Escrever testes unitários e de integração para a API usando Jest (não obrigatória).
 
-### Tecnologias e Ferramentas
-- Linguagens: TypeScriptFrameworks: NestJS ou Express
-
 ### Extras:
 - Deploy: Hospedar a API em um serviço como Heroku, AWS, ou DigitalOcean.
-- Logs e Monitoramento: Implementar logs e monitoramento para a API usando ferramentas como Winston ou Morgan.
+- Logs e Monitoramento: Implementar logs e monitoramento para a API usando ferramentas como Winston, Morgan ou até mesmo Logs no console.
 
 ### Submissão
 - Repositório GitHub: Submeter o código em um repositório público no GitHub.
